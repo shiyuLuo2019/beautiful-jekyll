@@ -14,10 +14,10 @@ baseurl: "/beautiful-jekyll"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: Shiyu Luo
 
 # Short description of your site
-description: Quickly build a beautiful Jekyll website
+description: Shiyu Luo's personal website
 
 # --- Navigation bar options --- #
 
@@ -26,37 +26,36 @@ description: Quickly build a beautiful Jekyll website
 avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
+# NEED CHANGING!!
 navbar-links:
-  Home: ""
-  Resources:
+  HOME: ""
+  CURRICULUM VITAE: ""
     - Getting started: "getstarted"
     - Featured users: "featured-users"
     - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  CONTACT: "http://deanattali.com"
+  
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
+  name: Shiyu Luo
+  email: "shiyuluo2019@u.northwestern.edu"
+  github: shiyuLuo2019
+  #linkedin: "pub/dean-attali/8/946/143"
+  #stackoverflow: "users/3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: true
+  #facebook: true
   email: true
-  twitter: true
+  #twitter: true
   github: true
-  linkedin: false
-  stackoverflow: false
+  #linkedin: false
+  #stackoverflow: false
   
 share-links-active:
   twitter: true
@@ -66,7 +65,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "shiyuLuo2019.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
@@ -74,7 +73,7 @@ url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-j
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"
+# google_analytics: "UA-59820529-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
