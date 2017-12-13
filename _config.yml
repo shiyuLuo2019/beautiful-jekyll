@@ -26,7 +26,7 @@ navbar-links:
   Home: ""
   About Me: "aboutme"
   Curriculum Vitae: "cv_version_3.1+QR.pdf"
-  Publications: "publications"
+  # Publications: "publications"
   Projects: "projects"
   Contact: ""
 
@@ -62,7 +62,7 @@ author:
   #twitter: yourname   # eg. daattali
   #reddit: yourname    # eg. daattali
   #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: shiyuluo  # eg. daattali
+  linkedin: in/shiyu-luo-025340122  # eg. daattali
   #xing: yourname      # eg. daattali
   #stackoverflow: yourlink  # eg. "3943160/daattali"
   #snapchat: yourname  # eg. daattali
