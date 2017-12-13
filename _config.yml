@@ -23,7 +23,7 @@ description: Keep learning
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "index.html"
   About Me: "aboutme"
   Curriculum Vitae: "cv_version_3.1+QR.pdf"
   # Publications: "publications"
