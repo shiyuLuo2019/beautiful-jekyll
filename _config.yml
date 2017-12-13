@@ -144,7 +144,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "posts"
+      type: "page"
     values:
       layout: "page"
       comments: false  # add comments to all blog posts
