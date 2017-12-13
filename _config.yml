@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-Shiyu Luo
+title: Shiyu Luo
 
 # Short description of your site
-Shiyu Luo's personal website
+description: Shiyu Luo's personal website
 
 # --- Navigation bar options --- #
 
